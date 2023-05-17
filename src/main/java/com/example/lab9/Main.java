@@ -45,6 +45,9 @@ public class Main extends Application {
         stage.show();
     }
 
+
+    
+
     public static int[] getClickPos(double click_x, double click_y, int entityWidth, int entityHeight){
         int[] pos = new int[2];
         /*
